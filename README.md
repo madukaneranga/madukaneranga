@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/7n4U9kD.gif" width="100%" alt="Welcome Banner"/>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="Welcome Banner"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm <a href="https://github.com/madukaneranga">Maduka Neranga</a></h1>
