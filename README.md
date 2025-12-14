@@ -23,11 +23,11 @@
 
 #### 🔹 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,nodejs,html,css,tailwind" />
 </p>
 - C# | JavaScript | SQL | PL/SQL  
 - ASP.NET Core | .NET Core 6+ | MVC | Web API | Entity Framework Core  
-- React.js | Tailwind CSS  
+- Next.js | React.js | Tailwind CSS  
 
 #### 🔹 Architecture & Patterns
 - Clean Architecture | Repository Pattern | SOLID Principles  
