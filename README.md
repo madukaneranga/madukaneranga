@@ -53,22 +53,6 @@
 - Visual Studio | VS Code | SSMS | SQL Developer  
 - xUnit | Agile | Scrum  
 
----
-
-### 🚀 Featured Projects  
-
-#### 🛒 **E-Commerce Platform (MERN + Firebase)**  
-⚡ Full-stack application with **real-time notifications, secure payments (PayHere), and role-based access**  
-🔹 Features: product browsing, cart management, secure checkout, image uploads with preview  
-🔹 Tech: `MongoDB Atlas | Express.js | React.js | Node.js | Firebase | Tailwind | Socket.IO | GitHub Actions`  
-
-#### 🧾 **Underwriting Platform – Life Insurance (Microservices)**  
-⚡ High-scale **microservices-based underwriting system** supporting thousands of users  
-🔹 Modules: Authentication, Policy Management, Customer Management, Notifications  
-🔹 Tech: `.NET Core 6 | React.js | REST APIs | PL/SQL | Socket.IO | Azure DevOps | GitHub Actions`  
-
----
-
 ### 📊 GitHub Analytics  
 
 <p align="center">
